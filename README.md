@@ -45,6 +45,7 @@ For detailed information and findings, please refer to the project documentation
 ## Contact Information
 
 If you have any questions or feedback, please contact me at [abdoo738@yahoo.com].
+
 or my LinkedIn [https://www.linkedin.com/in/abdelrahman-badawy-4517a6231/].
 
 Thank you for your interest in our NRZ (S) Modulation Project. We hope this research contributes to your understanding of advanced modulation techniques in digital communication systems.
